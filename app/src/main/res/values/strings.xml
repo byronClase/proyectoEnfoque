@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Lector de la tienda</string>
     <string name="salida">salida</string>
+    <string name="id">id</string>
+    <string name="nombre">nombre</string>
+    <string name="precio">precio</string>
+    <string name="unidades">Unidades</string>
+    <string name="iva">iva</string>
+    <string name="vacio">...</string>
 </resources>
